@@ -1,0 +1,11 @@
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\bin\Debug\PizzaVBForm.exe.config
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\bin\Debug\PizzaVBForm.exe
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\bin\Debug\PizzaVBForm.pdb
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\bin\Debug\PizzaVBForm.xml
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.vbprojResolveAssemblyReference.cache
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.Form1.resources
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.Resources.resources
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.vbproj.GenerateResource.Cache
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.exe
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.xml
+c:\users\hopkins28160\documents\visual studio 2015\Projects\PizzaVBForm\PizzaVBForm\obj\Debug\PizzaVBForm.pdb
